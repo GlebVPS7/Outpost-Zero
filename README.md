@@ -308,7 +308,7 @@ git clone https://github.com/ТВОЙ-НИК/OUTPOST-ZERO.git
 ### 2. Перейди в папку проекта
 
 ```bash
-cd OUTPOST-ZERO
+cd Outpost-Zero
 ```
 
 ### 3. Установи необходимые зависимости
