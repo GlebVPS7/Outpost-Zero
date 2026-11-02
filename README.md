@@ -302,7 +302,7 @@
 ### 1. Склонируй репозиторий
 
 ```bash
-git clone https://github.com/ТВОЙ-НИК/OUTPOST-ZERO.git
+git clone https://github.com/GlebVPS7/Outpost-Zero.git
 ```
 
 ### 2. Перейди в папку проекта
